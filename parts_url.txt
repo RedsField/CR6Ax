@@ -1,0 +1,38 @@
+LM2672M-5 5V
+https://www.mouser.fr/ProductDetail/Texas-Instruments/LM2672M-5.0-NOPB?qs=X1J7HmVL2ZFykyQ7t7L%252BYg%3D%3D
+
+LM2672M-12 12V
+https://www.mouser.fr/ProductDetail/Texas-Instruments/LM2672M-12-NOPB?qs=X1J7HmVL2ZGV47QuR%252BCbEg%3D%3D
+
+Cond cera
+https://www.mouser.fr/ProductDetail/TDK/FG28C0G1H103JNT06?qs=qf2ddTMq67VeBEQaT0jB5A%3D%3D
+
+Diode
+https://www.mouser.fr/ProductDetail/Diodes-Incorporated/B230-13-F?qs=vC9GXGO01wXQLD6VVDHa%2Fw%3D%3D
+
+Induc 150uH
+https://www.mouser.fr/ProductDetail/Wurth-Elektronik/7447714151?qs=XJfXErqHgA7izyt1NpQXGg%3D%3D
+
+Induc 68uH
+https://www.mouser.fr/ProductDetail/Wurth-Elektronik/7447783680?qs=u16ybLDytRY8qHkqdL1Tjg%3D%3D
+
+Trou'bal
+https://www.mouser.fr/ProductDetail/Phoenix-Contact/1548128?qs=ulEaXIWI0c87QOzP9yohxA%3D%3D
+ou
+Trou'bal2
+https://www.mouser.fr/ProductDetail/Molex/39544-3002?qs=4dAX1jW9NQp2jS8mDlHSiw%3D%3D
+
+Cond 220uF
+https://www.mouser.fr/ProductDetail/KEMET/ESL227M035AG8AA?qs=HXFqYaX1Q2yHN7oCVXkyWQ%3D%3D
+
+Cond 120uF
+https://www.mouser.fr/ProductDetail/Panasonic/EEU-FC1V121?qs=B52o3F9W2RM0VZsEpwrmdg%3D%3D
+
+Chenille arr
+https://www.mouser.fr/ProductDetail/Nidec-Components/CHS-10TA?qs=XeJtXLiO41TNSUw9pf9SxA%3D%3D
+
+Cond 100uF
+https://www.mouser.fr/ProductDetail/Panasonic/EEH-AZC1V101B?qs=sGAEpiMZZMvwFf0viD3Y3a3yb5D6sPUg8Uz8tlmjYzi3sSeXP87%2Fjg%3D%3D
+
+JST Headr
+https://www.mouser.fr/ProductDetail/JST-Commercial/B2B-PH-SM4-TBLFSN?qs=QpmGXVUTftHN%252BmgxVRUmmA%3D%3D
